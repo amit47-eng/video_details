@@ -6,3 +6,4 @@ function Rating(){
         </div>
     )
 }
+export default Rating;
